@@ -1,3 +1,4 @@
 Car,TEST111,Honda,Civic,2020
 Car,TEST2,Honda,Civic,2020
 Minibus,1,Toyota,Bus,2020
+Car,TESTT3,Toyota,Corolla,2020
